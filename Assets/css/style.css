@@ -69,3 +69,23 @@ textarea {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
 }
+
+/* Pseudo-Classes */
+i {
+    border-radius: 0px 10px 10px 0px;
+    background: cyan;
+    height: 50px;
+    text-align: center;
+    padding-top: 15px;
+}
+
+i:hover {
+    cursor: pointer;
+}
+
+p.col-1 {
+    
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
