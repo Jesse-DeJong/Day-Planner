@@ -44,6 +44,6 @@ SOFTWARE.
 ---
 
 ## Features
-- Same-site Links
-- Images!
-- Works...ish
+- Local storage of days events under their respective hour
+- Color changing hour-blocks based on if that time has passed on the current day
+- Dynamically updated current date
