@@ -1,3 +1,9 @@
+:root {
+  --red: rgb(255, 0, 0, 0.3);
+  --green: rgb(0, 128, 0, 0.3);
+  --purple: rgb(128, 0, 128, 0.3);
+}
+
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
@@ -83,9 +89,11 @@ i:hover {
     cursor: pointer;
 }
 
-p.col-1 {
-    
+/* p.col-1 {
+    margin-top: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     border-top: 1px solid black;
     border-bottom: 1px solid black;
-}
+} */
 
